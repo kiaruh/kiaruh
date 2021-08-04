@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
  <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/kenkirito/count.svg" />
+  <img src="https://profile-counter.glitch.me/kiaruh/count.svg" />
 </p>
