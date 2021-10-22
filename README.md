@@ -2,7 +2,7 @@
 
 ## 🛴 Trying to be less wrong than before.
 
-- 🔭 I’m currently working on SERN stack
+- 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning everything (👨🏻‍💻Web and 🤖AI)
 - ⚡ I love to play Rugby, Tennis, Crossfit, and Snowboarding
 
