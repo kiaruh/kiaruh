@@ -1,6 +1,10 @@
 ### Hi there, I'm Qiyin 
 
+
+## Rethinker
+## Fact checker
 ## 🛴 Trying to be less wrong than before.
+
 
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning everything (👨🏻‍💻Web and 🤖AI)
