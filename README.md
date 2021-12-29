@@ -1,9 +1,6 @@
 ### Hi there, I'm Qiyin 
 
-
-## Rethinker
-## Fact checker
-## 🛴 Trying to be less wrong than before.
+## 🛴 -  Rethinker - Fact checker -  Trying to be less wrong than before.
 
 
 - 🔭 I’m currently working on MERN stack
