@@ -25,6 +25,15 @@ class Qiyin:
             "learning_next": ["Dart", "Flutter", "n8n", "Docker", "Advanced AI Architectures"],
             "ad_tech": ["CTV", "oRTB", "VAST", "GAM Integration", "Ad Server Optimization"]
         }
+
+    def product_philosophy(self):
+        # "Is it buildable? Is it simple? Does it change the market?" 🤔
+        return {
+            "core": "Build from Scratch (Zero to One)",
+            "validation": "Value > Existing Market Solutions", 
+            "strategy": "Iterate to Disrupt",
+            "feasibility_check": True  # Always check if it's buildable & easy to implement
+        }
     
     def past_experience(self):
         return ["MERN Stack", "Python ML/DS", "Classical Deep Learning", "TensorFlow", "Keras"]
@@ -32,7 +41,19 @@ class Qiyin:
 
 ---
 
-## 🔭 What I'm Up To
+## � Product Philosophy
+
+> *"Build it right, build it simple, build it to disrupt."*
+
+I approach product development with a **Zero to One** mindset, focusing on creating value where none existed before. My process revolves around:
+
+- 🏗️ **Feasibility First**: Always asking *"Is this buildable?"* and *"Is it simple to implement?"* before writing a single line of code.
+- 💎 **Value-Driven Development**: Constantly comparing against existing market solutions to ensure we're adding tangible value.
+- 🔄 **Iterative Disruption**: Believing that the best products aren't just built—they're iterated upon until they change the market.
+
+---
+
+## �🔭 What I'm Up To
 
 - 🤖 **Testing the bleeding edge** - Using LLMs to code and exploring cutting-edge AI tech
 - 📺 **Ad Tech Specialist** - Working with CTV, oRTB, VAST, GAM integration & ad server optimization
@@ -46,8 +67,8 @@ class Qiyin:
 
 ## 🏆 Highlighted Projects
 
-### 🎭 [First COVID Mask Detector](https://www.youtube.com/watch?v=5qAdoBn7Ozc)
-**One of the first mask detection systems during COVID-19** 🦠➡️😷  
+### 🎭 [First COVID Mask Detector in Argentina](https://www.youtube.com/watch?v=5qAdoBn7Ozc)
+**The first mask detection system deployed in Argentina** 🇦🇷🦠➡️😷  
 Built with computer vision and deep learning to detect face mask compliance in real-time.
 
 <div align="center">
@@ -90,7 +111,7 @@ Built with computer vision and deep learning to detect face mask compliance in r
 
 I'm probably pushing my limits in one of these:
 
-🏉 **Rugby** • 🎾 **Tennis** • 🏋️ **CrossFit** • 🏋️‍♂️ **Weightlifting** • 🏂 **Snowboarding** • 🏃 **Running (Marathons)**
+🏉 **Rugby** • 🎾 **Tennis** • 🏋️ **CrossFit** • 🏋️‍♂️ **Weightlifting** • 🏂 **Snowboarding** • 🏃 **Running (5k ➡️ Marathons)**
 
 > *"Train hard, code harder"* 💪
 
